@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d125599d.css",
+    "main.js": "/static/js/main.3487354d.js",
+    "static/media/monitor.svg": "/static/media/monitor.8f17693e24359be2c091501c38075ea7.svg",
+    "static/media/5.svg": "/static/media/5.f0bd715b84d0524bb03781f98230bf3a.svg",
+    "static/media/3.svg": "/static/media/3.db1f412d1218d22d000078d7b6d8936b.svg",
+    "static/media/4.svg": "/static/media/4.f5fe3c6ffa587aa84baf111c20788ab5.svg",
+    "static/media/2.svg": "/static/media/2.1e21060b7223f59babcd320d4a4b0f43.svg",
+    "static/media/mountain3.svg": "/static/media/mountain3.42bbfd35e25d0f9227e30e4f8593d8c2.svg",
+    "static/media/1.svg": "/static/media/1.dafd437a54ec019e3f741025be7f19f7.svg",
+    "static/media/room1.svg": "/static/media/room1.c19135c743faa893e97b2a5188550b69.svg",
+    "static/media/hut.svg": "/static/media/hut.6fc9893ea743a2a94cdfd3cedfcd2983.svg",
+    "static/media/mountain1.svg": "/static/media/mountain1.f7567c2f164e83d9c95e6ab0d69cae46.svg",
+    "static/media/mountain2.svg": "/static/media/mountain2.e2e1d32f9b685d358ec01d5796d55d88.svg",
+    "static/media/sky.svg": "/static/media/sky.2d04698abaebc158be41711bd718e79e.svg",
+    "index.html": "/index.html",
+    "static/media/monitor_button.svg": "/static/media/monitor_button.87f22ce0c033c85758f4f6cc9a52cb0d.svg",
+    "static/media/moon.svg": "/static/media/moon.50331a8daeebd1b16506682afab1d4c3.svg",
+    "static/media/ground.svg": "/static/media/ground.573fa4d88d218b863e78742fcd729112.svg",
+    "main.d125599d.css.map": "/static/css/main.d125599d.css.map",
+    "main.3487354d.js.map": "/static/js/main.3487354d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d125599d.css",
+    "static/js/main.3487354d.js"
+  ]
+}
